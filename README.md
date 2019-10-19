@@ -107,7 +107,7 @@ Owners table:
 
 - Assuming you have a database ready with some data in it, how would you get the data from the database, explain the structure of a select query:
 
-  Select [columns (separated by a comma)] From [table];
+  SELECT [columns (separated by a comma)] FROM [table];
 
   and if it's too easy, add the where constraint
   SELECT [column1, column2, column3, ...] FROM [table_name] WHERE [condition];
